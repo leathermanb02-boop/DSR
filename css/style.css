@@ -1,3 +1,25 @@
 @charset "UTF-8";
 /* CSS Document */
 body {	margin: 0; }
+
+    .bkg_1 {
+        background-image: url(../images/background_image.png);
+        width: 1487px;
+        height: 1025px;
+        float: left;
+        margin-left: 216px;
+    }
+
+    #logo {
+        float: left;
+        margin-left: -215px;
+    }
+    
+    .middle_nav {
+        color: white;
+        font-family: "Inter", sans-serif;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
