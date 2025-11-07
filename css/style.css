@@ -3,7 +3,7 @@
 body {	margin: 0; }
 
     .bkg_1 {
-        background-image: url(../images/background_image.png);
+        background-image: url(../images/background.png);
         width: 1487px;
         height: 1025px;
         float: left;
@@ -16,10 +16,157 @@ body {	margin: 0; }
     }
     
     .middle_nav {
+        margin-left: 485px;
+    }
+
+    h1 {
         color: white;
         font-family: "Inter", sans-serif;
         font-size: 20px;
         font-style: normal;
+        font-weight: 300;
+        line-height: normal;
+        float: left;
+        height: 24px;
+        margin-top: 45px;
+        margin-left: 100px;
+    }
+
+    .quote {
+        color: #FFF;
+        text-align: right;
+        font-family: Forum;
+        font-size: 60px;
+        font-style: normal;
         font-weight: 400;
         line-height: normal;
-    }
+        float: left;
+        width: 374px;
+        margin-left: 930px;
+        margin-top: 420px;
+        }
+
+            .heading {
+                float: left;
+                color: var(--Color, #586771);
+                font-family: Forum;
+                font-size: 48px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                width: 819px;
+                height: 53px;
+                margin-top: 177px;
+                margin-left: 216px;
+            }
+
+            .Blue {
+                color: var(--Color-2, #C0DEF5);
+                font-family: Forum;
+                font-size: 48px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+            }
+
+                .hpara {
+                    width: 819px;
+                    height: 422px;
+                    color: #586771;
+                    font-family: Inter;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 400;
+                    float: left;
+                    margin-top: 69px;
+                    margin-left: 216px;
+                }
+
+                .headerphoto {
+                    width: 431px;
+                    height: 557px;
+                    float: left;
+                    margin-left: 1147px;
+                    margin-top: -500px;
+                }
+
+                .heading2 {
+                    color: var(--Color, #586771);
+                    font-family: Forum;
+                    font-size: 48px;
+                    font-style: normal;
+                    font-weight: 400;
+                    width: 819px;
+                    float: left;
+                    height: 53px;
+                    margin-left: 216px;
+                    margin-top: 131px;
+                }
+
+                .para2 {
+                    color: #586771;
+                    font-family: Inter;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 400;
+                    margin-left: 216px;
+                    width: 819px;
+                    height: 576px;
+                    float: left;
+                    margin-top: 70px;
+                }
+
+                .headerphoto2 {
+                    width: 554px;
+                    height: 701px;
+                    float: left;
+                    margin-left: 1097px;
+                    margin-top: -500px;
+                }
+
+                .heading3 {
+                    color: var(--Color, #586771);
+                    font-family: Forum;
+                    font-size: 48px;
+                    font-style: normal;
+                    font-weight: 400;
+                    float: left;
+                    width: 819px;
+                    height: 53px;
+                    margin-top: 131px;
+                    margin-left: 216px;
+                }
+
+                .para3 {
+                    width: 636px;
+                    height: 383px;
+                    color: #586771;
+                    font-family: Inter;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: normal;
+                    margin-left: 216px;
+                    margin-top: 70px;
+                    float: left;
+                }
+
+                .para4 {
+                    width: 636px;
+                    height: 268px;
+                    color: #586771;
+                    text-align: right;
+                    font-family: Inter;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 400;
+                    float: left;
+                 }
+
+        .info {
+
+        }
+
+        .logo2 {
+            
+        }
