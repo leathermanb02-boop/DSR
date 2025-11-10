@@ -182,7 +182,7 @@ body {	margin: 0; }
          }
 
          .footer {
-            background-image: url(/images/footer.png);
+            background-image: url(../images/footer.png);
             float: left;
             width: 1703px;
             height: 331px;
@@ -223,7 +223,7 @@ body {	margin: 0; }
         }
 
                 .bkg_2 {
-                    background-image: url(/images/proj_bkg.png);
+                    background-image: url(../images/proj_bkg.png);
                     width: 1487px;
                     height: 1025px;
                     float: left;
@@ -258,7 +258,7 @@ body {	margin: 0; }
                     clear: both;
                 }
                 .bw_culture {
-                    background-image: url(/images/culture/b&wculture.png);
+                    background-image: url(../images/culture/b&wculture.png);
                     width: 340px;
                     height: 480px;
                     float: left;
@@ -279,7 +279,7 @@ body {	margin: 0; }
                     }
 
                     .bw_culture:hover {
-                        background-image: url(/images/culture/culture.png);
+                        background-image: url(../images/culture/culture.png);
                         color: var(--Color-2, #C0DEF5);
                         font-family: Inter;
                         font-size: 40px;
@@ -288,7 +288,7 @@ body {	margin: 0; }
                     }
                 
                 .bw_publicspace {
-                    background-image: url(/images/publicspace/B&Wpublicspace.png);
+                    background-image: url(../images/publicspace/B&Wpublicspace.png);
                     width: 340px;
                     height: 480px;
                     float: left;
@@ -310,7 +310,7 @@ body {	margin: 0; }
                 }
 
                 .bw_education {
-                    background-image: url(/images/education/B&Weducation1.png);
+                    background-image: url(../images/education/B&Weducation1.png);
                     width: 340px;
                     height: 480px;
                     float: left;
@@ -335,7 +335,7 @@ body {	margin: 0; }
 
 
     .bkg_3 {
-        background-image: url(/images/culture/cultureheader.png);
+        background-image: url(../images/culture/cultureheader.png);
         width: 1487px;
         height: 475px;
         float: left;
@@ -372,7 +372,7 @@ body {	margin: 0; }
 
     
         .one {
-            background-image: url(/images/culture/one.png);
+            background-image: url(../images/culture/one.png);
             width: 653px;
             height: 539px;
             margin-top: 10px;
@@ -383,7 +383,7 @@ body {	margin: 0; }
                 opacity: 0.5;
             }
         .two {
-            background-image: url(/images/culture/two.png);
+            background-image: url(../images/culture/two.png);
             width: 810px;
             height: 539px;
             float: left;
@@ -394,7 +394,7 @@ body {	margin: 0; }
                 opacity: 0.5;
             }
         .three {
-            background-image: url(/images/culture/three.png);
+            background-image: url(../images/culture/three.png);
             width: 872px;
             height: 414px;
             float: left;
@@ -402,7 +402,7 @@ body {	margin: 0; }
             margin-left: 216px;
         }
         .four {
-            background-image: url(/images/culture/four.png);
+            background-image: url(../images/culture/four.png);
             width: 575px;
             height: 687px;
             float: left;
@@ -410,7 +410,7 @@ body {	margin: 0; }
             margin-left: 10px;
         }
         .five {
-            background-image: url(/images/culture/five.png);
+            background-image: url(../images/culture/five.png);
             width: 873px;
             height: 487px;
             float: left;
@@ -418,7 +418,7 @@ body {	margin: 0; }
             margin-left: 216px;
         }
         .six {
-            background-image: url(/images/culture/six.png);
+            background-image: url(../images/culture/six.png);
             height: 526px;
             width: 589px;
             float: left;
@@ -426,7 +426,7 @@ body {	margin: 0; }
             margin-left: 10px;
         }
         .seven {
-            background-image: url(/images/culture/seven.png);
+            background-image: url(../images/culture/seven.png);
             height: 706px;
             width: 471px;
             float: left;
@@ -434,7 +434,7 @@ body {	margin: 0; }
             margin-left: 216px;
         }
         .eight {
-            background-image: url(/images/culture/eight.png);
+            background-image: url(../images/culture/eight.png);
             height: 301px;
             width: 391px;
             float: left;
@@ -442,7 +442,7 @@ body {	margin: 0; }
             margin-left: 11px;
         }
         .nine {
-            background-image: url(/images/culture/nine.png);
+            background-image: url(../images/culture/nine.png);
             height: 394px;
             width: 981px;
             float: left;
@@ -452,7 +452,7 @@ body {	margin: 0; }
 
         
 .footer3 {
-            background-image: url(/images/footer.png);
+            background-image: url(../images/footer.png);
             float: left;
             width: 1703px;
             height: 331px;
@@ -493,7 +493,7 @@ body {	margin: 0; }
         }
 
 .bkg_4 {
-    background-image: url(/images/culture/bkg4.png);
+    background-image: url(../images/culture/bkg4.png);
     height: 475px;
     width: 1486px;
     float: left;
@@ -579,7 +579,7 @@ body {	margin: 0; }
                 margin-left: -515px;
              }
         .photo1 {
-            background-image: url(/images/culture/photoc1.png);
+            background-image: url(../images/culture/photoc1.png);
             width: 795px;
             height: 446px;
             margin-top: -445px;
@@ -587,7 +587,7 @@ body {	margin: 0; }
             float: left;
         }
         .photo2 {
-            background-image: url(/images/culture/phototwo.png);
+            background-image: url(../images/culture/phototwo.png);
             height: 352px;
             width: 611px;
             float: left;
@@ -595,7 +595,7 @@ body {	margin: 0; }
             margin-top: 160px;
         }
         .photo3 {
-            background-image: url(/images/culture/photothree.png);
+            background-image: url(../images/culture/photothree.png);
             height: 349px;
             width: 611px;
             float: left;
@@ -603,7 +603,7 @@ body {	margin: 0; }
             margin-top: 588px;
         }
         .photo4 {
-            background-image: url(/images/culture/photofour.png);
+            background-image: url(../images/culture/photofour.png);
             height: 349px;
             width: 611px;
             float: left;
@@ -624,7 +624,7 @@ body {	margin: 0; }
         }
 
         .table1 {
-            background-image: url(/images/culture/table10.png);
+            background-image: url(../images/culture/table10.png);
             height: 200px;
             width: 1028px;
             float: left;
@@ -632,7 +632,7 @@ body {	margin: 0; }
             margin-top: 172px;
         }
         .table2 {
-            background-image: url(/images/culture/table11.png);
+            background-image: url(../images/culture/table11.png);
             height: 527px;
             width: 1624px;
             float: left;
@@ -640,7 +640,7 @@ body {	margin: 0; }
             margin-top: 31px;
         }
 .footer4 {
-            background-image: url(/images/footer.png);
+            background-image: url(../images/footer.png);
             float: left;
             width: 1703px;
             height: 331px;
@@ -681,7 +681,7 @@ body {	margin: 0; }
         }
 
 .bkg_5 {
-    background-image: url(/images/culture/bkg4.png);
+    background-image: url(../images/culture/bkg4.png);
     height: 475px;
     width: 1486px;
     float: left;
@@ -736,7 +736,7 @@ body {	margin: 0; }
             line-height: normal;
         }
         .aud {
-            background-image: url(/images/culture/sing.png);
+            background-image: url(../images/culture/sing.png);
             width: 533px;
             height: 607px;
             float: left;
@@ -744,7 +744,7 @@ body {	margin: 0; }
             margin-left: 69px;
         }
         .grass {
-            background-image: url(/images/culture/grass.png);
+            background-image: url(../images/culture/grass.png);
             height: 386px;
             width: 754px;
             float: left;
@@ -752,7 +752,7 @@ body {	margin: 0; }
             margin-left: 216px;
         }
         .dance {
-            background-image: url(/images/culture/dance.png);
+            background-image: url(../images/culture/dance.png);
             height: 385px;
             width: 755px;
             float: left;
@@ -760,7 +760,7 @@ body {	margin: 0; }
             margin-top: 31px;
         }
         .weird {
-            background-image: url(/images/culture/weird.png);
+            background-image: url(../images/culture/weird.png);
             height: 802px;
             width: 533px;
             float: left;
@@ -768,7 +768,7 @@ body {	margin: 0; }
             margin-left: 91px;
         }
         .anotherone {
-            background-image: url(/images/culture/table57.png);
+            background-image: url(../images/culture/table57.png);
             height: 309px;
             width: 1159px;
             float: left;
@@ -777,7 +777,7 @@ body {	margin: 0; }
         }
 
 .footer5 {
-            background-image: url(/images/footer.png);
+            background-image: url(../images/footer.png);
             float: left;
             width: 1703px;
             height: 331px;
