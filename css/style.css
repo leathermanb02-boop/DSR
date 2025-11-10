@@ -256,13 +256,13 @@ body {	margin: 0; }
                 }
                 #projects {
                     clear: both;
+                    float: left;
                 }
                 .bw_culture {
                     background-image: url(../images/culture/b&wculture.png);
                     width: 340px;
                     height: 480px;
                     float: left;
-                    margin-top: 130px;
                 }
                     .culture {
                         color: var(--Color-3, #363B3F);
@@ -271,10 +271,8 @@ body {	margin: 0; }
                         font-style: normal;
                         font-weight: 400;
                         float: left;
-                        width: 190px;
-                        height: 53px;
-                        margin-top: 152px;
-                        margin-left: -314px;
+                        width: 340px;
+                        height: 480px;
                         text-decoration: none;
                     }
 
@@ -292,8 +290,6 @@ body {	margin: 0; }
                     width: 340px;
                     height: 480px;
                     float: left;
-                    margin-top: -70px;
-                    margin-left: 314px;
                 }
                 .publicspace {
                     color: var(--Color-3, #363B3F);
@@ -303,10 +299,8 @@ body {	margin: 0; }
                     font-weight: 400;
                     float: left;
                     text-decoration: none;
-                    width: 229px;
-                    height: 116px;
-                    margin-top: 152px;
-                    margin-left: 26px;
+                    width: 340px;
+                    height: 480px;
                 }
 
                 .bw_education {
@@ -314,8 +308,6 @@ body {	margin: 0; }
                     width: 340px;
                     height: 480px;
                     float: left;
-                    margin-top: -118px;
-                    margin-left: 314px;
                 }
                 .education {
                     color: var(--Color-3, #363B3F);
@@ -325,10 +317,8 @@ body {	margin: 0; }
                     font-weight: 400;
                     float: left;
                     text-decoration: none;
-                    width: 229px;
-                    height: 116px;
-                    margin-top: 152px;
-                    margin-left: 106px;
+                    width: 340px;
+                    height: 480px;
                 }
 
 
