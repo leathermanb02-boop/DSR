@@ -19,7 +19,7 @@ body {	margin: 0; }
         margin-left: 485px;
     }
 
-    h1 {
+    .link {
         color: white;
         font-family: "Inter", sans-serif;
         font-size: 20px;
@@ -30,7 +30,12 @@ body {	margin: 0; }
         height: 24px;
         margin-top: 45px;
         margin-left: 100px;
+        text-decoration: none;
     }
+
+        .link:hover {
+            color: #586771;
+        }
 
     .quote {
         color: #FFF;
@@ -173,12 +178,376 @@ body {	margin: 0; }
             font-weight: 400;
             height: 24px;
             float: left;
-            width: 20px;
-            margin-top: 45px;
             margin-left: 100px;
          }
 
-         .info {
-            margin-left: 800px;
-            margin-top: 3px;
+         .footer {
+            background-image: url(/images/footer.png);
+            float: left;
+            width: 1703px;
+            height: 331px;
+            margin-top: 117px;
          }
+
+        .info {
+            margin-left: 685px;
+            margin-top: -270px;
+            float: left;
+            height: 24px;
+         }
+
+        .logo2 {
+            width: 375px;
+            height: 380px;
+            float: left;
+            margin-top: -400px;
+        }
+
+        .line {
+            float: left;
+            margin-left: 92px;
+            margin-top: -105px;
+        }
+
+        .rights {
+            color: #586771;
+            font-family: Inter;
+            font-size: 11px;
+            font-style: normal;
+            font-weight: 400;
+            width: 179px;
+            height: 25px;
+            float: left;
+            margin-left: 1452px;
+            margin-top: -58px;
+        }
+
+                .bkg_2 {
+                    background-image: url(/images/proj_bkg.png);
+                    width: 1487px;
+                    height: 1025px;
+                    float: left;
+                    margin-left: 216px;
+                }
+
+                .head {
+                    color: #FFF;
+                    text-align: center;
+                    font-family: Inter;
+                    font-size: 128px;
+                    font-style: normal;
+                    font-weight: 500;
+                    float: left;
+                    margin-top: -590px;
+                    margin-left: 659px;
+                }
+
+                .sentence {
+                    width: 1128px;
+                    height: 52px;
+                    color: #000;
+                    font-family: Forum;
+                    font-size: 32px;
+                    font-style: normal;
+                    font-weight: 400;
+                    float: left;
+                    margin-top: 91px;
+                    margin-left: 366px;
+                }
+
+                .bw_culture {
+                    background-image: url(/images/culture/b&wculture.png);
+                    width: 340px;
+                    height: 480px;
+                    float: left;
+                    margin-top: 130px;
+                }
+                    .culture {
+                        color: var(--Color-3, #363B3F);
+                        font-family: Inter;
+                        font-size: 40px;
+                        font-style: normal;
+                        font-weight: 400;
+                        float: left;
+                        width: 190px;
+                        height: 53px;
+                        margin-top: 152px;
+                        margin-left: -314px;
+                        text-decoration: none;
+                    }
+
+                    .bw_culture:hover {
+                        background-image: url(/images/culture/culture.png);
+                        color: var(--Color-2, #C0DEF5);
+                        font-family: Inter;
+                        font-size: 40px;
+                        font-style: normal;
+                        font-weight: 400;
+                    }
+                
+                .bw_publicspace {
+                    background-image: url(/images/publicspace/B&Wpublicspace.png);
+                    width: 340px;
+                    height: 480px;
+                    float: left;
+                    margin-top: -70px;
+                    margin-left: 314px;
+                }
+                .publicspace {
+                    color: var(--Color-3, #363B3F);
+                    font-family: Inter;
+                    font-size: 40px;
+                    font-style: normal;
+                    font-weight: 400;
+                    float: left;
+                    text-decoration: none;
+                    width: 229px;
+                    height: 116px;
+                    margin-top: 152px;
+                    margin-left: 26px;
+                }
+
+                .bw_education {
+                    background-image: url(/images/education/B&Weducation1.png);
+                    width: 340px;
+                    height: 480px;
+                    float: left;
+                    margin-top: -118px;
+                    margin-left: 314px;
+                }
+                .education {
+                    color: var(--Color-3, #363B3F);
+                    font-family: Inter;
+                    font-size: 40px;
+                    font-style: normal;
+                    font-weight: 400;
+                    float: left;
+                    text-decoration: none;
+                    width: 229px;
+                    height: 116px;
+                    margin-top: 152px;
+                    margin-left: 106px;
+                }
+
+
+
+
+    .bkg_3 {
+        background-image: url(/images/culture/cultureheader.png);
+        width: 1487px;
+        height: 475px;
+        float: left;
+        margin-left: 216px;
+    }
+
+    .headerc {
+        width: 513px;
+        height: 106px;
+        float: left;
+        color: #FFF;
+        text-align: center;
+        font-family: Inter;
+        font-size: 96px;
+        font-style: normal;
+        font-weight: 500;
+        margin-left: 216px;
+        margin-top: -185px;
+    }
+
+    .back {
+        float: left;
+        width: 111px;
+        height: 20px;
+        color: #FFF;
+        font-family: Forum;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        margin-top: -65px;
+        margin-left: 295px;
+     }
+
+
+    
+        .one {
+            background-image: url(/images/culture/one.png);
+            width: 653px;
+            height: 539px;
+            margin-top: 10px;
+            margin-left: 216px;
+            float: left;
+        }
+            .one:hover {
+                opacity: 0.5;
+            }
+        .two {
+            background-image: url(/images/culture/two.png);
+            width: 810px;
+            height: 539px;
+            float: left;
+            margin-top: 10px;
+            margin-left: 11px;
+        }
+            .two:hover {
+                opacity: 0.5;
+            }
+        .three {
+            background-image: url(/images/culture/three.png);
+            width: 872px;
+            height: 414px;
+            float: left;
+            margin-top: 10px;
+            margin-left: 216px;
+        }
+        .four {
+            background-image: url(/images/culture/four.png);
+            width: 575px;
+            height: 687px;
+            float: left;
+            margin-top: 10px;
+            margin-left: 10px;
+        }
+        .five {
+            background-image: url(/images/culture/five.png);
+            width: 873px;
+            height: 487px;
+            float: left;
+            margin-top: -263px;
+            margin-left: 216px;
+        }
+        .six {
+            background-image: url(/images/culture/six.png);
+            height: 526px;
+            width: 589px;
+            float: left;
+            margin-top: 10px;
+            margin-left: 10px;
+        }
+        .seven {
+            background-image: url(/images/culture/seven.png);
+            height: 706px;
+            width: 471px;
+            float: left;
+            margin-top: -302px;
+            margin-left: 216px;
+        }
+        .eight {
+            background-image: url(/images/culture/eight.png);
+            height: 301px;
+            width: 391px;
+            float: left;
+            margin-top: -302px;
+            margin-left: 11px;
+        }
+        .nine {
+            background-image: url(/images/culture/nine.png);
+            height: 394px;
+            width: 981px;
+            float: left;
+            margin-top: 10px;
+            margin-left: 10px;
+        }
+
+        
+.footer3 {
+            background-image: url(/images/footer.png);
+            float: left;
+            width: 1703px;
+            height: 331px;
+            margin-top: 10px;
+         }
+
+        .info {
+            margin-left: 685px;
+            margin-top: -270px;
+            float: left;
+            height: 24px;
+         }
+
+        .logo2 {
+            width: 375px;
+            height: 380px;
+            float: left;
+            margin-top: -400px;
+        }
+
+        .line {
+            float: left;
+            margin-left: 92px;
+            margin-top: -105px;
+        }
+
+        .rights {
+            color: #586771;
+            font-family: Inter;
+            font-size: 11px;
+            font-style: normal;
+            font-weight: 400;
+            width: 179px;
+            height: 25px;
+            float: left;
+            margin-left: 1452px;
+            margin-top: -58px;
+        }
+
+.bkg_4 {
+    background-image: url(/images/culture/bkg4.png);
+    height: 475px;
+    width: 1486px;
+    float: left;
+    margin-left: 216px;
+}
+
+.link2 {
+    float: left;
+    height: 24px;
+    margin-top: 45px;
+    margin-left: 100px;
+    text-decoration: none;
+    color: var(--Color, #586771);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    height: 24px;
+}
+    .link2:hover {
+        color: var(--Color-2, #C0DEF5);
+    }
+
+    .heading {
+        width: 634px;
+        height: 107px;
+        color: var(--Color, #586771);
+        font-family: Inter;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        float: left;
+        margin-top: -201px;
+        margin-left: 255px;
+    }
+        .subheading {
+            color: var(--Color, #586771);
+            font-family: Inter;
+            font-size: 32px;
+            font-style: normal;
+            font-weight: 200;
+            line-height: normal;
+            float: left;
+            margin-top: -145px;
+            margin-left: 258px;
+        }
+        .back2 {
+            width: 111px;
+            height: 20px;
+            float: left;
+            color: var(--Color, #586771);
+            font-family: Forum;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            margin-top: -90px;
+            margin-left: 290px;
+        }
