@@ -254,7 +254,9 @@ body {	margin: 0; }
                     margin-top: 91px;
                     margin-left: 366px;
                 }
-
+                #projects {
+                    clear: both;
+                }
                 .bw_culture {
                     background-image: url(/images/culture/b&wculture.png);
                     width: 340px;
@@ -550,4 +552,267 @@ body {	margin: 0; }
             font-weight: 400;
             margin-top: -90px;
             margin-left: 290px;
+        }
+            .intro {
+                width: 515px;
+                height: 426px;
+                float: left;
+                margin-left: 216px;
+                margin-top: 86px;
+                color: #000;
+                font-family: Forum;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+            }
+            .text1 {
+                width: 515px;
+                float: left;
+                color: #000;
+                font-family: Forum;
+                font-size: 20px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                margin-top: 190px;
+                margin-left: -515px;
+             }
+        .photo1 {
+            background-image: url(/images/culture/photoc1.png);
+            width: 795px;
+            height: 446px;
+            margin-top: -445px;
+            margin-left: 818px;
+            float: left;
+        }
+        .photo2 {
+            background-image: url(/images/culture/phototwo.png);
+            height: 352px;
+            width: 611px;
+            float: left;
+            margin-left: 220px;
+            margin-top: 160px;
+        }
+        .photo3 {
+            background-image: url(/images/culture/photothree.png);
+            height: 349px;
+            width: 611px;
+            float: left;
+            margin-left: -611px;
+            margin-top: 588px;
+        }
+        .photo4 {
+            background-image: url(/images/culture/photofour.png);
+            height: 349px;
+            width: 611px;
+            float: left;
+            margin-top: 1010px;
+            margin-left: -611px;
+        }
+        .text2 {
+            width: 707px;
+            float: left;
+            color: #000;
+            font-family: Forum;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            margin-top: 158px;
+            margin-left: 65px;
+        }
+
+        .table1 {
+            background-image: url(/images/culture/table10.png);
+            height: 200px;
+            width: 1028px;
+            float: left;
+            margin-left: 338px;
+            margin-top: 172px;
+        }
+        .table2 {
+            background-image: url(/images/culture/table11.png);
+            height: 527px;
+            width: 1624px;
+            float: left;
+            margin-left: 40px;
+            margin-top: 31px;
+        }
+.footer4 {
+            background-image: url(/images/footer.png);
+            float: left;
+            width: 1703px;
+            height: 331px;
+            margin-top: 10px;
+         }
+
+        .info {
+            margin-left: 685px;
+            margin-top: -270px;
+            float: left;
+            height: 24px;
+         }
+
+        .logo2 {
+            width: 375px;
+            height: 380px;
+            float: left;
+            margin-top: -400px;
+        }
+
+        .line {
+            float: left;
+            margin-left: 92px;
+            margin-top: -105px;
+        }
+
+        .rights {
+            color: #586771;
+            font-family: Inter;
+            font-size: 11px;
+            font-style: normal;
+            font-weight: 400;
+            width: 179px;
+            height: 25px;
+            float: left;
+            margin-left: 1452px;
+            margin-top: -58px;
+        }
+
+.bkg_5 {
+    background-image: url(/images/culture/bkg4.png);
+    height: 475px;
+    width: 1486px;
+    float: left;
+    margin-left: 216px;
+}
+    .heading2 {
+        width: 818px;
+        height: 107px;
+        color: var(--Color, #586771);
+        font-family: Inter;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        float: left;
+        margin-top: -201px;
+        margin-left: 255px;
+    }
+        .subheading2 {
+            color: var(--Color, #586771);
+            font-family: Inter;
+            font-size: 32px;
+            font-style: normal;
+            font-weight: 200;
+            line-height: normal;
+            float: left;
+            margin-top: -145px;
+            margin-left: 258px;
+        }
+        .back3 {
+            width: 111px;
+            height: 20px;
+            float: left;
+            color: var(--Color, #586771);
+            font-family: Forum;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            margin-top: -90px;
+            margin-left: 290px;
+        }
+        .intro2 {
+            margin-left: 216px;
+            margin-top: 128px;
+            float: left;
+            width: 777px;
+            color: #000;
+            font-family: Forum;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+        .aud {
+            background-image: url(/images/culture/sing.png);
+            width: 533px;
+            height: 607px;
+            float: left;
+            margin-top: 128px;
+            margin-left: 69px;
+        }
+        .grass {
+            background-image: url(/images/culture/grass.png);
+            height: 386px;
+            width: 754px;
+            float: left;
+            margin-top: 91px;
+            margin-left: 216px;
+        }
+        .dance {
+            background-image: url(/images/culture/dance.png);
+            height: 385px;
+            width: 755px;
+            float: left;
+            margin-left: 216px;
+            margin-top: 31px;
+        }
+        .weird {
+            background-image: url(/images/culture/weird.png);
+            height: 802px;
+            width: 533px;
+            float: left;
+            margin-top: -386px;
+            margin-left: 91px;
+        }
+        .anotherone {
+            background-image: url(/images/culture/table57.png);
+            height: 309px;
+            width: 1159px;
+            float: left;
+            margin-top: 121px;
+            margin-left: 272px;
+        }
+
+.footer5 {
+            background-image: url(/images/footer.png);
+            float: left;
+            width: 1703px;
+            height: 331px;
+            margin-top: 135px;
+         }
+
+        .info {
+            margin-left: 685px;
+            margin-top: -270px;
+            float: left;
+            height: 24px;
+         }
+
+        .logo2 {
+            width: 375px;
+            height: 380px;
+            float: left;
+            margin-top: -400px;
+        }
+
+        .line {
+            float: left;
+            margin-left: 92px;
+            margin-top: -105px;
+        }
+
+        .rights {
+            color: #586771;
+            font-family: Inter;
+            font-size: 11px;
+            font-style: normal;
+            font-weight: 400;
+            width: 179px;
+            height: 25px;
+            float: left;
+            margin-left: 1452px;
+            margin-top: -58px;
         }
