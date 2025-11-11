@@ -4,6 +4,8 @@ body {	margin: 0; }
 
     .bkg_1 {
         background-image: url(../images/background.png);
+        background-attachment: fixed;
+        background-size: cover;
         width: 1487px;
         height: 1025px;
         float: left;
